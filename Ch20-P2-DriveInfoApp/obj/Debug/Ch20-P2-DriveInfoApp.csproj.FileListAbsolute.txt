@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P2-DriveInfoApp\Ch20-P2-DriveInfoApp\bin\Debug\Ch20-P2-DriveInfoApp.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P2-DriveInfoApp\Ch20-P2-DriveInfoApp\bin\Debug\Ch20-P2-DriveInfoApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P2-DriveInfoApp\Ch20-P2-DriveInfoApp\bin\Debug\Ch20-P2-DriveInfoApp.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P2-DriveInfoApp\Ch20-P2-DriveInfoApp\obj\Debug\Ch20-P2-DriveInfoApp.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P2-DriveInfoApp\Ch20-P2-DriveInfoApp\obj\Debug\Ch20-P2-DriveInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P2-DriveInfoApp\Ch20-P2-DriveInfoApp\obj\Debug\Ch20-P2-DriveInfoApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P2-DriveInfoApp\Ch20-P2-DriveInfoApp\obj\Debug\Ch20-P2-DriveInfoApp.pdb
